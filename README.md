@@ -1,4 +1,4 @@
-# Remix blog-app following tutorial by Brad Traversy
+# Remix blog-app by Brad Traversy
 
 - [Remix Docs](https://remix.run/docs)
 
