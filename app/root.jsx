@@ -49,7 +49,7 @@ function Layout({ children }) {
 
         <ul className="nav">
           <li>
-            <Link to="/post">Posts</Link>
+            <Link to="/posts">Posts</Link>
           </li>
         </ul>
       </nav>
